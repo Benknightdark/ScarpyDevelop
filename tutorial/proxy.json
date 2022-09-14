@@ -1,0 +1,62 @@
+[
+    {
+        "scheme": "https",
+        "proxy": "https://169.57.1.85:8123",
+        "port": "8123"
+    },
+    {
+        "scheme": "http",
+        "proxy": "http://169.57.1.85:8123",
+        "port": "8123"
+    },
+    {
+        "scheme": "https",
+        "proxy": "https://157.90.222.231:8080",
+        "port": "8080"
+    },
+    {
+        "scheme": "https",
+        "proxy": "https://196.15.213.235:3128",
+        "port": "3128"
+    },
+    {
+        "scheme": "http",
+        "proxy": "http://196.15.213.235:3128",
+        "port": "3128"
+    },
+    {
+        "scheme": "http",
+        "proxy": "http://190.2.211.134:8080",
+        "port": "8080"
+    },
+    {
+        "scheme": "http",
+        "proxy": "http://41.77.188.178:80",
+        "port": "80"
+    },
+    {
+        "scheme": "http",
+        "proxy": "http://194.233.69.38:443",
+        "port": "443"
+    },
+    {
+        "scheme": "https",
+        "proxy": "https://103.73.194.2:80",
+        "port": "80"
+    },
+    {
+        "scheme": "https",
+        "proxy": "https://122.3.103.31:3128",
+        "port": "3128"
+    },
+    {
+        "scheme": "http",
+        "proxy": "http://66.94.120.161:443",
+        "port": "443"
+    },
+    {
+        "scheme": "https",
+        "proxy": "https://66.94.120.161:443",
+        "port": "443"
+    }
+]
